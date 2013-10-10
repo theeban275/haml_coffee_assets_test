@@ -1,0 +1,5 @@
+%p
+  This is a controls html template.
+%ul
+- for i in [1..10]
+  %li= "This is item #{i}"  

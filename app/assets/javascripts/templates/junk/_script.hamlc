@@ -1,0 +1,6 @@
+%p
+  This is a script html template.
+%p
+  = "The current time is #{new Date()}"
+%p
+  = "1 + 1 = #{1 + 1}"

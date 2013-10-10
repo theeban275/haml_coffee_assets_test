@@ -1,0 +1,15 @@
+%h1 HAML Coffee Assets Test
+
+%select#template-picker
+  %option
+
+  %option{ value: 'junk/static' } 
+    static test
+  %option{ value: 'junk/script' }
+    script test
+  %option{ value: 'junk/variable' }
+    variable test
+  %option{ value: 'junk/controls' }
+    controls test
+
+#template-container

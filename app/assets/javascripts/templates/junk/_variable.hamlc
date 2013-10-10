@@ -1,0 +1,4 @@
+%p
+  This is a variable html template.
+%p
+  = "My name is #{@first_name} #{@last_name}"

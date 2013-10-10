@@ -1,0 +1,6 @@
+%p
+  This is a static html template.
+#id1
+  This is a div with an id.
+.class1
+  This is a div with a class.

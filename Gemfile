@@ -44,8 +44,6 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-group :assets do
-  gem 'haml_coffee_assets'
-  gem 'execjs'
-end
+gem 'haml_coffee_assets'
+gem 'execjs'
 
